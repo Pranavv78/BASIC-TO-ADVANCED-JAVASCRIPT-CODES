@@ -1,9 +1,9 @@
-/*
 
  TIP :- CTRL + /       ==> FOR COMMENTING SHORTCUT.
  Shift + Alt + A       ==> Toggle block comment       ---> IMP FOR MULTIPLE LINE COMMENT.
  Shift + Alt + Down    ==> TO REPEATING THE SAME LINE TO MULTIPLE TIMES.
  Ctrl + l              ==> select whole line.
+  
 #DATE: 26/02/2024
 ==================
 
@@ -11,7 +11,7 @@
                To create a variable in JavaScript, use the let keyword.
 
 ----------------------------------------------------------     
-$ Some good-to-follow rules are:
+$ SOME GOOD-TO-FOLLOW RULES ARE:
 
  1. Use human-readable names like userName or shoppingCart.
 
@@ -31,7 +31,7 @@ $ Some good-to-follow rules are:
 
 
 -------------------------------------------------------------------------------------------------
-                          * We can also declare multiple variables in one line: *
+                          * WE CAN ALSO DECLARE MULTIPLE VARIABLES IN ONE LINE : *
 
 let user = 'pranav', age = 21, message = "Hello Pranav"; 
 
@@ -152,7 +152,7 @@ EX : Examples of incorrect variable names:
   2. let my-name; // hyphens '-' aren't allowed in the name
 -------------------------------------------------------------------------------------------------------------
  
-                         * Reserved names *
+                         * RESERVED NAMES *
 
 There is a list of reserved words, which cannot be used as variable names because they are used by the language itself.
 For example: let, class, return, and function are reserved.
@@ -247,7 +247,6 @@ let currentVisitor = "pranav";
 
 
 ************************************************************************************************************************************************************************
-*/
 
                             
 
