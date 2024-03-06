@@ -8,7 +8,7 @@
   shift + TAB           ==> select the multiple line and use this to center your all text.
     
 
- # DATE: 06/02/2024
+ # DATE: 06/03/2024
  ==================== 
                                    
                         *   Arrow functions, the basics  *
